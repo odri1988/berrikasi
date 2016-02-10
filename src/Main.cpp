@@ -6,10 +6,12 @@
  */
 
 #include "Main.h"
+#include <iostream>
+using namespace std;
 
 Main::Main() {
 	// TODO Auto-generated constructor stub
-
+	cout << "kaixo";
 }
 
 Main::~Main() {
